@@ -10,3 +10,6 @@ In this section, you’ll use Python and SQLAlchemy to do a basic climate analys
 Used module 10 activities for help and had a tutoring apt for this a while back. Finally turning it it, hope i did it right ha. I used google/chatgpt to perfect some cells that werent running properly.
 
 I also couldn't figure out how change the name of the starter file once i loaded it over, its supposed to be Surfsup!
+
+Turning it in for the 2nd time! I fixed the app.py file. I thought it was running in my terminal but I believe its working now! I definately had to use google/chatpt to import some things I was missing.
+Hope I'm turning this in right, Please let me know if I am missing anything or how it could better.
